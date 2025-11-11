@@ -1,7 +1,10 @@
-langchain
-langchain-openai
-langchain-pinecone
-langchain-text-splitters
-langchain-community
-pinecone-client
-python-dotenv
+langchain==0.3.7
+langchain-core==0.3.29
+langchain-community==0.3.2
+langchain-openai==0.3.0
+langchain-text-splitters==0.3.0
+
+pinecone-client==4.1.0
+python-dotenv==1.0.1
+pydantic==2.9.2
+tqdm==4.66.5

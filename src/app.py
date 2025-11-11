@@ -1,5 +1,5 @@
 # App CLI 
-from src.rag_agent import ask
+from rag_agent import ask
 
 def main():
     print("🚀 Bienvenido al RAG con LangChain + Pinecone + OpenAI")

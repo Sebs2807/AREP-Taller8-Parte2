@@ -1,6 +1,9 @@
 # Vectorstore file 
 from langchain_openai import OpenAIEmbeddings
-from langchain_pinecone import PineconeVectorStore
+from langchain_community.vectorstores import Pinecone as PineconeVectorStore
+import sys, os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from config.config import (
     OPENAI_API_KEY,
     PINECONE_API_KEY,
@@ -26,5 +29,5 @@ def get_vectorstore():
         )
 
     index = pc.Index(PINECONE_INDEX_NAME)
-    vectorstore = PineconeVectorStore(index=index, embedding=embeddings)
+    vectorstore = PineconeVectorStore(index=index, embedding=embeddings, text_key="text")
     return vectorstore
