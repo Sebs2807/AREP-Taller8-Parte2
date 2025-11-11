@@ -1,5 +1,6 @@
-# RAG LangChain OpenAI del proyecto
+# RAG LangChain OpenAI 
 
+## 📁 Estructuras del proyecto
 ```
 rag_langchain_openai/
 │
