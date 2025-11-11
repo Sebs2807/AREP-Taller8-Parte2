@@ -1,0 +1,8 @@
+La inteligencia artificial (IA) es una rama de la informática que busca crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana. 
+Entre estas tareas se incluyen el razonamiento, el aprendizaje, la percepción y la comprensión del lenguaje natural.
+
+Los sistemas de IA pueden clasificarse en dos grandes grupos: la IA débil, que se centra en tareas específicas como el reconocimiento facial o los asistentes virtuales, 
+y la IA fuerte, que aspira a reproducir la inteligencia humana en toda su amplitud.
+
+El desarrollo de la IA ha sido impulsado por avances en el poder computacional, la disponibilidad de grandes volúmenes de datos (big data) y el progreso en el aprendizaje automático. 
+Hoy en día, la IA se encuentra en productos cotidianos como los teléfonos móviles, los motores de recomendación y los vehículos autónomos.

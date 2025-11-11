@@ -1,0 +1,11 @@
+La historia de la inteligencia artificial comenzó en la década de 1950, cuando científicos como Alan Turing propusieron la posibilidad de que las máquinas pudieran pensar. 
+En 1956, durante la Conferencia de Dartmouth, John McCarthy acuñó el término "inteligencia artificial", marcando el inicio oficial de este campo.
+
+Durante los años 60 y 70, los investigadores desarrollaron los primeros programas capaces de resolver problemas matemáticos y jugar ajedrez. 
+Sin embargo, las limitaciones de hardware y datos llevaron al llamado "invierno de la IA", un período de estancamiento en la investigación.
+
+En los años 2000, con el aumento del poder de cómputo y la llegada de grandes volúmenes de información, la IA experimentó un renacimiento. 
+El aprendizaje profundo (deep learning) y las redes neuronales revolucionaron el campo, permitiendo avances en visión por computadora, procesamiento del lenguaje natural y robótica.
+
+Actualmente, la IA es una de las tecnologías más influyentes del siglo XXI, transformando sectores como la medicina, la educación, el transporte y las finanzas.
+
